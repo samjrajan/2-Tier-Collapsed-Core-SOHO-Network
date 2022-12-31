@@ -1,5 +1,3 @@
-# 2-Tier-Collapsed-Core-SOHO-Network
-
 Features of the Network:
 -	Created a functional 2-tier/SOHO network with multiple VLANs for different departments 
 -	DHCP pools created for each VLAN
